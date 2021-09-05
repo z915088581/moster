@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+<!-- wp:cover {"minHeight":100,"minHeightUnit":"vh","customGradient":"linear-gradient(0deg,rgb(143,2,143) 0%,rgb(64,7,110) 100%)","align":"center"} -->
+<div class="wp-block-cover aligncenter has-background-dim has-background-gradient" style="background:linear-gradient(0deg,rgb(143,2,143) 0%,rgb(64,7,110) 100%);min-height:100vh"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"编写标题…"} -->
+<p class="has-text-align-center">MOSTER &amp; 墨魂创想</p>
+<!-- /wp:paragraph -->
 
-You can use the [editor on GitHub](https://github.com/z915088581/moster/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">这是展示简约内容的网页                       It is a web page showing simple content.</p>
+<!-- /wp:paragraph -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">比如文章，社群消息                For example, articles, community news.</p>
+<!-- /wp:paragraph -->
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/z915088581/moster/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"borderRadius":50,"backgroundColor":"black","textColor":"white","width":100} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-white-color has-black-background-color has-text-color has-background" href="http://z915088581.github.io/moster" style="border-radius:50px" target="_blank" rel="noreferrer noopener">进入官网</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:cover -->
